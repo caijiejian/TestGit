@@ -3,5 +3,6 @@ bbbbbbbbbbbbbbb
 a @@@@@@
 cccccccccccc
 dddddddddddd
-测试合并d
+测试合并c
+>>>>>>> testBranch
 master
